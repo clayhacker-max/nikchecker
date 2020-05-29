@@ -10,7 +10,7 @@ Pkg install curl
 
 Pkg install git
 
-Git clone https://github.com/clayhacker-max/nik2
+Git clone https://github.com/clayhacker-max/nik
 
 Cd nik2
 
